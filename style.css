@@ -1,0 +1,9 @@
+/*
+[Extension]
+html to css auto completion // css file에서 html class 자동완성
+*/
+
+.header {
+    text-align: center;
+    justify-content: center;
+}
